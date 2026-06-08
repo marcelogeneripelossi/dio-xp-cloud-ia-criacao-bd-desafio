@@ -23,13 +23,13 @@ Ao concluir este Passo a Passo, você aplicará conceitos de computação em nuv
 ## 🚀 Pré-requisitos
 
 Antes de começar, certifique-se de ter:
-- Uma *conta gratuita do Azure*. Caso não tenha, crie uma em [azure.microsoft.com/free](https://azure.microsoft.com/free/) com:
+- Uma *conta gratuita do Azure*. Caso não tenha, crie uma em [azure.microsoft.com](https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account) com:
   - Um número de telefone válido.
   - Um cartão de crédito ou débito para verificação (não será cobrado na conta gratuita).
     - Dica: utilize um Cartão de Crédito Virtual e Temporário para não ter nenhuma cobrança surpresa se esquecer de excluir os serviços após os estudos.
     - Lembre-se: **Fique atento** aos serviços utilizados para que não haja cobranças imprevistas.
   - Uma conta Microsoft ou GitHub.
-- Acesso ao [Portal do Azure](https://portal.azure.com).
+- Acesso ao [Portal do Azure](https://azure.microsoft.com/pt-br).
 - Conhecimento básico sobre bancos de dados relacionais e o Azure.
 
 *Dicas:* 
@@ -45,7 +45,7 @@ Nesta seção, criaremos uma máquina virtual (VM) Windows no Azure que será co
 ### Passo a Passo
 
 1. *Acesse o Portal do Azure*:
-   - Faça login em [portal.azure.com](https://portal.azure.com) com sua conta gratuita.
+   - Faça login em [https://azure.microsoft.com/pt-br](https://azure.microsoft.com/pt-br) com sua conta gratuita, clicando no botão "Entrar", no canto superior direito.
 
 2. *Criar uma Máquina Virtual (VM)*:
    - No menu lateral, clique em *Criar um recurso* ou pesquise por *Máquinas Virtuais* no campo de busca.
@@ -119,7 +119,7 @@ Nesta seção, criaremos uma instância do Azure SQL Database, um serviço de ba
 ### Passo a Passo
 
 1. *Acesse o Portal do Azure*:
-   - Faça login em [portal.azure.com](https://portal.azure.com).
+   - Faça login em [https://azure.microsoft.com/pt-br](https://azure.microsoft.com/pt-br).
 
 2. *Criar um Banco de Dados SQL*:
    - No menu lateral, clique em *Criar um recurso* ou pesquise por *Banco de Dados SQL*.
